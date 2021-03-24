@@ -7,7 +7,7 @@ Then you make your edits in Vim. Once you're done, write and quit with `:wq` and
 ---
 
 ## todo
-[x] - Write a quick script to get the idea across
-[] - Write a Makefile
-[] - Ensure it only works for files and not directories (for now)
-[] - Add a random hash to generated files just incase a file already exists in the directory with the name `new_directory.txt` and `original_directory.txt`
+- [x] Write a quick script to get the idea across
+- [ ] Write a Makefile
+- [ ] Ensure it only works for files and not directories (for now)
+- [ ] Add a random hash to generated files just incase a file already exists in the directory with the name `new_directory.txt` and `original_directory.txt`
