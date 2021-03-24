@@ -11,3 +11,4 @@ Then you make your edits in Vim. Once you're done, write and quit with `:wq` and
 - [ ] Write a Makefile
 - [ ] Ensure it only works for files and not directories (for now)
 - [ ] Add a random hash to generated files just incase a file already exists in the directory with the name `new_directory.txt` and `original_directory.txt`
+- [ ] Create brew formulae and call tool `bfr`. You should be able to write `bfr .` to start the tool in the current directory
